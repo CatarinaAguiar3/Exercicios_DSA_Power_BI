@@ -14,4 +14,5 @@ produto apresentou maior lucro médio.
 5- Qual foi o comportamento da margem de lucro ao longo do tempo? Considere a
 margem de lucro como o lucro dividido pelo valor venda.
 <br>
-Para preparar o dashboard, tive que removar linhas duplicadas e criar novas colunas para calcular o lucro e a margem de lucro.Para isso, também usei DAX.
+Para preparar o dashboard, tive que removar linhas duplicadas e criar novas colunas para calcular o lucro e a margem de lucro.Para isso, também usei DAX e arrumei o relacionamento entreas tabelas.
+
