@@ -1,4 +1,5 @@
 Neste exercício respondi as seguintas perguntas:
+<br>
 1- Qual foi o total de valor venda considerando cada modo de envio dos pedidos? 
 <br>
 2- Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? 
